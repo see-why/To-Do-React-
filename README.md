@@ -84,7 +84,7 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- my dog Perry for the comforting lick here and there
+- my dog Bubbles for the comforting lick here and there
 ## 📝 License
 - This project is [MIT](./LICENSE) licensed.
 
